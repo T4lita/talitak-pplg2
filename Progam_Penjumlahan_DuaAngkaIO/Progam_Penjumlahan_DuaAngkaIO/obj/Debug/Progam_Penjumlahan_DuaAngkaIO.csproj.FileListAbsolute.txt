@@ -1,0 +1,7 @@
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\bin\Debug\Progam_Penjumlahan_DuaAngkaIO.exe.config
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\bin\Debug\Progam_Penjumlahan_DuaAngkaIO.exe
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\bin\Debug\Progam_Penjumlahan_DuaAngkaIO.pdb
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\obj\Debug\Progam_Penjumlahan_DuaAngkaIO.csproj.AssemblyReference.cache
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\obj\Debug\Progam_Penjumlahan_DuaAngkaIO.csproj.CoreCompileInputs.cache
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\obj\Debug\Progam_Penjumlahan_DuaAngkaIO.exe
+D:\INTAN - X PPLG2\Progam_Penjumlahan_DuaAngkaIO\Progam_Penjumlahan_DuaAngkaIO\obj\Debug\Progam_Penjumlahan_DuaAngkaIO.pdb
