@@ -1,0 +1,7 @@
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\bin\Debug\AritmatikaPengurangan.exe.config
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\bin\Debug\AritmatikaPengurangan.exe
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\bin\Debug\AritmatikaPengurangan.pdb
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\obj\Debug\AritmatikaPengurangan.csproj.AssemblyReference.cache
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\obj\Debug\AritmatikaPengurangan.csproj.CoreCompileInputs.cache
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\obj\Debug\AritmatikaPengurangan.exe
+D:\TALITA - X PPLG 2\AritmatikaPengurangan\AritmatikaPengurangan\obj\Debug\AritmatikaPengurangan.pdb
