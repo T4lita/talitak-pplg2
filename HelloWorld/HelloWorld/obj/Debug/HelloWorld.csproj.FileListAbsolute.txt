@@ -1,0 +1,8 @@
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\TALITA - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
