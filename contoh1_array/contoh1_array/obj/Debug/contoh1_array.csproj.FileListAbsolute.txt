@@ -1,0 +1,8 @@
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\bin\Debug\contoh1_array.exe.config
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\bin\Debug\contoh1_array.exe
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\bin\Debug\contoh1_array.pdb
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\obj\Debug\contoh1_array.csproj.AssemblyReference.cache
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\obj\Debug\contoh1_array.csproj.CoreCompileInputs.cache
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\obj\Debug\contoh1_array.exe
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\obj\Debug\contoh1_array.pdb
+D:\AGIT - XPPLG2\contoh1_array\contoh1_array\obj\Debug\contoh1_array.exe.config

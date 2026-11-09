@@ -1,0 +1,8 @@
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\bin\Debug\cara3_array.exe.config
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\bin\Debug\cara3_array.exe
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\bin\Debug\cara3_array.pdb
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\obj\Debug\cara3_array.csproj.AssemblyReference.cache
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\obj\Debug\cara3_array.csproj.CoreCompileInputs.cache
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\obj\Debug\cara3_array.exe
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\obj\Debug\cara3_array.pdb
+D:\TALITA - X PPLG 2\cara3_array\cara3_array\obj\Debug\cara3_array.exe.config

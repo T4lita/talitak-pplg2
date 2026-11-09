@@ -1,0 +1,7 @@
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\bin\Debug\bawaan_array.exe.config
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\bin\Debug\bawaan_array.exe
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\bin\Debug\bawaan_array.pdb
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\obj\Debug\bawaan_array.csproj.AssemblyReference.cache
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\obj\Debug\bawaan_array.csproj.CoreCompileInputs.cache
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\obj\Debug\bawaan_array.exe
+D:\TALITA - X PPLG 2\bawaan_array\bawaan_array\obj\Debug\bawaan_array.pdb

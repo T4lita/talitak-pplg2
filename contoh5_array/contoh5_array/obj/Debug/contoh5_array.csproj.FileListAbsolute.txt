@@ -1,0 +1,8 @@
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\bin\Debug\contoh5_array.exe.config
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\bin\Debug\contoh5_array.exe
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\bin\Debug\contoh5_array.pdb
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\obj\Debug\contoh5_array.csproj.AssemblyReference.cache
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\obj\Debug\contoh5_array.csproj.CoreCompileInputs.cache
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\obj\Debug\contoh5_array.exe
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\obj\Debug\contoh5_array.pdb
+D:\AGIT - XPPLG2\contoh5_array\contoh5_array\obj\Debug\contoh5_array.exe.config
